@@ -14,4 +14,4 @@ In case the normality value is lower than the predefined value, it is judged as 
 The `mysmooth.r` incorportates some of the typical probability distributions as well as the uncommon ones. 
 These probability distributions were taken from `get_d.r` and `get_pdf.r`. respectively.
 
-[^1]: J. Bang, "Anomaly detection of network-initiated LTE signaling traffic in wireless sensor and actuator networks based on a Hidden semi-Markov Model," Computers & Security, vol. 65, pp. 108-120, Mar. 2017, URL: https://www.sciencedirect.com/science/article/pii/S0167404816301614
+[^1]: J. Bang, "Anomaly detection of network-initiated LTE signaling traffic in wireless sensor and actuator networks based on a Hidden semi-Markov Model," *Computers & Security*, vol. 65, pp. 108-120, Mar. 2017, URL: https://www.sciencedirect.com/science/article/pii/S0167404816301614
