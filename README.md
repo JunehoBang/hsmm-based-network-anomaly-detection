@@ -3,7 +3,7 @@
 The repository contains the source code for validating the network anomaly detection algorithm using hsmm based network traffic model.
 The details of the algorithm is specified in the ref. [^1]
 
-Please  note that the source codes were written in reference to the hsmm package in R
+Please  note that the source codes were written in reference to the `hsmm` package in R
 Considering the R package's limitations in testing my algorithm, I re-developed the code referring to the package codes
 
 The main code is contained in `hsmmdetector.r` which evaluates the normality measure of the observation 
